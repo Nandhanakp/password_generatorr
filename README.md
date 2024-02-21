@@ -9,9 +9,9 @@ Include uppercase letters, lowercase letters, numbers, and special characters
 Copy generated passwords to clipboard with a click
 
 ### HERE YOU GO
-1.Clone the repository: git clone https://github.com/Nandhanakp/password_generator.git
+1.Clone the repository: git clone https://github.com/Nandhanakp/password_generatorr.git
 
-2.Navigate to the project directory: cd password_generator
+2.Navigate to the project directory: cd password_generatorr
 
 3.Run the program: python password.py
 
